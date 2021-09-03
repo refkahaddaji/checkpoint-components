@@ -1,3 +1,5 @@
+<div class="checkpoint-instructions"><div class="title"><span>Instructions</span></div><div class="checkpoint-content"><ul><li>Create a project using create-react-app.</li><li>Create App.js file in src folder and use it as a root component for your React app.</li><li>Create a profile folder (path: src/Component/Profile).</li><li>Inside your profile folder, create: (ProfilePhoto.js / FullName.js / Address.js ).</li><li>ProfilePhoto.js: a functional component that returns a photo of your profile.</li><li>FullName.js: a functional component that returns your full name.</li><li>Address.js:&nbsp; a functional component that returns your address.</li><li>Import profile components into App.js and use them.</li><li>Feel free to style your app as you wish.</li></ul></div></div>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
